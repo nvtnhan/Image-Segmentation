@@ -1,4 +1,4 @@
-# Image-Segmentation-Courseworks
+# Image-Segmentation-Coursework
 
 ## [Lab 01](https://github.com/nvtnhan/Image-Segmentation/tree/main/Lab01): Demonstrates and implements **Global Thresholding** and **Local Thresholding**
 With specific applications in:
